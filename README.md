@@ -1,4 +1,3 @@
-
 # cf_node_app
 SAP CP Cloud Foundry NodeJS App sample
 
