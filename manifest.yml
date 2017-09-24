@@ -1,0 +1,9 @@
+---
+applications:
+- name: cfnodejsapp
+  memory: 64M
+  disk_quota: 64M
+  host: cfnodejsapp
+  instances: 1
+  timeout: 180
+  buildpack: nodejs_buildpack
