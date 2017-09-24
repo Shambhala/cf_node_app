@@ -9,7 +9,7 @@ SAP CP Cloud Foundry NodeJS App sample
 
 References:
 
-[Initializing a Node JS Application](https://thinkster.io/tutorials/node-json-api/initializing-a-starter-node-project)
-[Node.js Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
-[Easy node authentication setup and local](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
-[Build an authentication app using Express node passport](https://www.danielgynn.com/build-an-authentication-app-using-express-node-passport/)
+*   [Initializing a Node JS Application](https://thinkster.io/tutorials/node-json-api/initializing-a-starter-node-project)
+*   [Node.js Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
+*   [Easy node authentication setup and local](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+*   [Build an authentication app using Express node passport](https://www.danielgynn.com/build-an-authentication-app-using-express-node-passport/)

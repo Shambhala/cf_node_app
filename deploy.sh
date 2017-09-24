@@ -3,14 +3,14 @@
 
 # CF_API
 CF_API="https://api.cf.eu10.hana.ondemand.com"
-echo ${CF_API}
+echo "Cloudfoundry API is the following ${CF_API}"
 
 # CF_USERNAME
-CF_USERNAME="Zara Ali"
+CF_USERNAME="No name"
 
 # MANIFEST FILE NAME
 MANIFEST_FILENAME="manifest.yml"
-echo ${MANIFEST_FILENAME}
+echo "The Manifest filename is the following ${MANIFEST_FILENAME}"
 
 # CF_ORG
 CF_ORG=""
