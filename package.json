@@ -1,32 +1,33 @@
 {
-  "name": "cfnodejsapp",
-  "version": "1.0.0",
-  "description": "A sample NodeJS App for Cloud Foundry",
-  "keywords": [
-    "Cloudfoundry"
-  ],
-  "homepage": "https://github.com/Shambhala/cf_node_app#readme",
-  "bugs": {
-    "url": "https://github.com/Shambhala/cf_node_app/issues"
-  },
-  "license": "MIT",
-  "author": "Please insert your name here",
-  "main": "server/app.js",
-  "engines" : {
-   "node" : "6.11.1",
-   "npm" : "3.10.10"
- },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shambhala/cf_node_app.git"
-  },
-  "scripts": {
-    "start": "node server/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "body-parser": "^1.18.2",
-    "cfenv": "^1.0.4",
-    "express": "^4.15.4"
-  }
+	"name": "cfnodejsapp",
+	"version": "1.0.0",
+	"description": "A sample NodeJS App for Cloud Foundry",
+	"keywords": [
+		"Cloudfoundry"
+	],
+	"homepage": "https://github.com/Shambhala/cf_node_app#readme",
+	"bugs": {
+		"url": "https://github.com/Shambhala/cf_node_app/issues"
+	},
+	"license": "MIT",
+	"author": "Please insert your name here",
+	"main": "server/app.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Shambhala/cf_node_app.git"
+	},
+	"scripts": {
+		"start": "node server/app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"cfenv": "^1.0.4",
+		"express": "^4.15.4",
+		"serve-favicon": "^2.4.4"
+	},
+	"engines": {
+		"node": "6.11.1",
+		"npm": "3.10.10"
+	}
 }
