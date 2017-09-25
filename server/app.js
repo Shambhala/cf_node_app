@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 app.get('/', function(req, res)
 {
-    res.send('<h1>Buenos días Dear friend</h1>');
+    res.send('<p><h1>Hello World Node JS for SAP CP Cloud Foundry.</h1></p>');
 });
 
 // app.use('/ui5', express.static(path.join(__dirname, 'content')));
